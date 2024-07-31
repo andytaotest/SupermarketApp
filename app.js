@@ -6,9 +6,9 @@ const app = express();
 
 const connection = mysql.createConnection({
   host: "sql.freedb.tech",
-  user: "freedb_root_freedb",
-  password: "dG%$N9pGq#f!PF2",
-  database: "freedb_supermarket_888",
+  user: "freedb_simon",
+  password: "rg9StT%z**zn7q&",
+  database: "freedb_supermarket777",
 });
 
 connection.connect((err) => {
